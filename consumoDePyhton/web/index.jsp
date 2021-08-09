@@ -56,7 +56,7 @@
                                     <input type="checkbox" class="form-check-input" id="exampleCheck1">
                                     <label class="form-check-label" for="exampleCheck1">Recordar contraseña</label>
                                 </div>
-                                <a href="principal.jsp" style="margin-bottom: 10px" type="submit" class="btn btn-primary btn-block">Ingresar a consultorio</a>
+                                <a href="doctoresCalificaciones.jsp" style="margin-bottom: 10px" type="submit" class="btn btn-primary btn-block">Ingresar a consultorio</a>
                             </form>
                         </div>
                     </div>
@@ -68,3 +68,4 @@
     <script src="js/jquery-2.1.1.min.js" type="text/javascript"></script>
     <script src="js/bootstrap.js" type="text/javascript"></script>
 </html>
+
